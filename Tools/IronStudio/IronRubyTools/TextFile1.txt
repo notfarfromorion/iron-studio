@@ -1,0 +1,5 @@
+﻿Microsoft.VisualStudio.commonide
+Microsoft.VisualStudio.ComponentModelHost
+Microsoft.VisualStudio.CoreUtility
+Microsoft.VisualStudio.Editor
+
